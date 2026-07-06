@@ -1,5 +1,4 @@
 # Collaborative Diffusion-Reconstruction Learning for Generalizable and Unified Image Restoration
-## DDL: Collaborative Diffusion-Reconstruction Learning for Generalizable and Unified Image Restoration
 
 Official-style PyTorch implementation for:
 
