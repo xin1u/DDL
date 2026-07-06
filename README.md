@@ -1,4 +1,5 @@
-# DDL: Denoising-Driven Learning for Image Restoration
+# Collaborative Diffusion-Reconstruction Learning for Generalizable and Unified Image Restoration
+## DDL: Collaborative Diffusion-Reconstruction Learning for Generalizable and Unified Image Restoration
 
 Official-style PyTorch implementation for:
 
@@ -62,7 +63,6 @@ DDL/
   train_finetune.py
   train_unified.py
   inference.py
-  verify_pipeline.py
 ```
 
 ## Installation
