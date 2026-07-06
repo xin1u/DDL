@@ -67,7 +67,7 @@ DDL/
 ## Installation
 
 ```bash
-git clone <this-repository-url> DDL
+git clone https://github.com/xin1u/DDL
 cd DDL
 conda create -n ddl python=3.10 -y
 conda activate ddl
