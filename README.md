@@ -145,13 +145,7 @@ python inference.py \
   --task dehazing \
   --use_ensemble True
 ```
-
-Run a smoke test without datasets:
-
-```bash
-python verify_pipeline.py
-```
-
+ 
 ## Matched Timesteps
 
 DDL uses a reduced diffusion discretization with `T=50`.
